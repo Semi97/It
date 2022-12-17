@@ -1,32 +1,98 @@
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/rai1.png" tvg-id="rai1" tvg-name="Rai 1" , Rai 1
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/rai1.png" tvg-id="rai1" tvg-name="Rai 1" , Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
-#EXTINF:-1 tvg-id="Tgcom.it" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/197/logo?width=240" group-title="MEDIASET",TG COM
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" group-title="MEDIASET",Italia 1
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/191/logo?width=240" group-title="MEDIASET",Italia 2
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" group-title="MEDIASET",Rete 4
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" group-title="MEDIASET",Canale 5
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
-#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/193/logo?width=240" group-title="MEDIASET",TOPcrime
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd
-#EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/192/logo?width=240" group-title="MEDIASET",Iris
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
-#EXTINF:-1 tvg-id="iris.it" tvg-name="La5 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=240" group-title="MEDIASET",La 5
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ka)/manifest.mpd
-#EXTINF:-1 tvg-id="iris.it" tvg-name="mEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/601/logo?width=240" group-title="MEDIASET",Mediaset 27
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ts)/manifest.mpd
-
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine34" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/574/logo?width=240&theme=dark" group-title="MEDIASET",Cine 34
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b6)/manifest.mpd
-#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="mediaset Extra" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/194/logo?width=240" group-title="MEDIASET",Med. Extra
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/249/logo?width=240" group-title="MEDIASET",Focus
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/195/logo?width=240" group-title="MEDIASET",Boing
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Cartoonito.png" group-title="MEDIASET",Cartoonito
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="2" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/rai2.png" tvg-id="rai2" tvg-name="Rai 2" , Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="3" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/rai3.png" tvg-id="rai3" tvg-name="Rai 3" , Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="21" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/rai4.png" tvg-id="rai4" tvg-name="Rai 4" , Rai 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="23" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/rai5.png" tvg-id="rai5" tvg-name="Rai 5" , Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="24" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/raimovie.png" tvg-id="raimovie" tvg-name="Rai Movie" , Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="25" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/raipremium.png" tvg-id="raipremium" tvg-name="Rai Premium" , Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="54" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/raistoria.png" tvg-id="raistoria" tvg-name="Rai Storia" , Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="43" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/raiyoyo.png" tvg-id="raiyoyo" tvg-name="Rai Yoyo" , Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="42" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/raigulp.png" tvg-id="raigulp" tvg-name="Rai Gulp" , Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="48" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/rainews24.png" tvg-id="rainews24" tvg-name="Rai News 24" , Rai News 24
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="57" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/raisportpiuhd.png" tvg-id="raisportpiuhd" tvg-name="Rai Sport Piu HD" , Rai Sport Piu HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="58" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/raisport.png" tvg-id="raisport" tvg-name="Rai Sport" , Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="146" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/raiscuola.png" tvg-id="raiscuola" tvg-name="Rai Scuola" , Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF: -1 tvg-chno="156" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/rairadio2.png" tvg-id="rairadio2" tvg-name="Rai Radio 2" , Rai Radio 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
+#EXTINF: -1 tvg-chno="50" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/1.png" tvg-id="1" tvg-name="Sky TG24" , Sky TG24
+http://127.0.0.1:10293/?id=1
+#EXTINF: -1 tvg-chno="26" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/2.png" tvg-id="2" tvg-name="Cielo" , Cielo
+http://127.0.0.1:10293/?id=2
+#EXTINF: -1 tvg-chno="8" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/7.png" tvg-id="7" tvg-name="TV8" , TV8
+http://127.0.0.1:10293/?id=7
+#EXTINF: -1 tvg-chno="27" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/paramountnetwork.png" tvg-id="paramountnetwork" tvg-name="Paramount Network" , Paramount Network
+http://127.0.0.1:10293/?id=paramountnetwork
+#EXTINF: -1 tvg-chno="180" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgnorba24.png" tvg-id="tgnorba24" tvg-name="TG Norba 24" , TG Norba 24
+https://flash5.xdevel.com/tgnorba_24/smil:tgnorba_24.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="667302" tvg-name="TGR Abruzzo" , TGR Abruzzo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=667302
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668458" tvg-name="TGR Basilicata" , TGR Basilicata
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668458
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668710" tvg-name="TGR Bolzano" , TGR Bolzano
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668710
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668460" tvg-name="TGR Calabria" , TGR Calabria
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668460
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668461" tvg-name="TGR Campania" , TGR Campania
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668461
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668648" tvg-name="TGR Emilia Romagna" , TGR Emilia Romagna
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668648
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668651" tvg-name="TGR Friuli Venezia Giulia" , TGR Friuli Venezia Giulia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668651
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668666" tvg-name="TGR Lazio" , TGR Lazio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668666
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668667" tvg-name="TGR Liguria" , TGR Liguria
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668667
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668685" tvg-name="TGR Lombardia" , TGR Lombardia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668685
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668686" tvg-name="TGR Marche" , TGR Marche
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668686
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668691" tvg-name="TGR Molise" , TGR Molise
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668691
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668692" tvg-name="TGR Piemonte" , TGR Piemonte
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668692
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668697" tvg-name="TGR Puglia" , TGR Puglia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668697
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668699" tvg-name="TGR Sardegna" , TGR Sardegna
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668699
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668707" tvg-name="TGR Sicilia" , TGR Sicilia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668707
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668709" tvg-name="TGR Toscana" , TGR Toscana
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668709
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="739016" tvg-name="TGR Trento" , TGR Trento
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=739016
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668711" tvg-name="TGR Umbria" , TGR Umbria
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668711
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668726" tvg-name="TGR Val D'Aosta" , TGR Val D'Aosta
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668726
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668727" tvg-name="TGR Veneto" , TGR Veneto
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668727
